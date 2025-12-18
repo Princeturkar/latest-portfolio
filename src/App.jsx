@@ -33,7 +33,7 @@ export default function App() {
           <p>Proficient in HTML, CSS, JavaScript, and React. I build modern web applications with a focus on user experience.</p>
           <div className="social-media">
             <a href="https://github.com/Princeturkar" target="_blank" rel="noopener"><i class='bx bxl-github'></i></a>
-            <a href="https://instagram.com/prince_turkar" target="_blank" rel="noopener"><i class='bx bxl-instagram'></i></a>
+            <a href="https://instagram.com/_princeturkar" target="_blank" rel="noopener"><i class='bx bxl-instagram'></i></a>
             <a href="https://www.linkedin.com/in/prince-turkar-4557b428b/" target="_blank" rel="noopener"><i class='bx bxl-linkedin'></i></a>
           </div>
           <a href="#" className="btn">Download CV</a>
