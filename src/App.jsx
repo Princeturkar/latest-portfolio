@@ -94,6 +94,14 @@ export default function App() {
             </div>
           </div>
           <div className="portfolio-box">
+            <img src="https://via.placeholder.com/600x400" />
+            <div className="portfolio-layer">
+              <h4>AI virtual Assistant</h4>
+              <p>Built a fully functional AI Assistant interface using HTML,CSS and Javascript </p>
+              <a href="#"><i className='bx bx-link-external'></i></a>
+            </div>
+          </div>
+          <div className="portfolio-box">
             <img src="https://via.placeholder.com/600x400"  />
             <div className="portfolio-layer">
               <h4>Portfolio Site</h4>
